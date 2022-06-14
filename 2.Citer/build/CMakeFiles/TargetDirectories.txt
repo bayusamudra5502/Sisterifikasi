@@ -1,0 +1,5 @@
+/home/bayus/Documents/seleksi-sister/2.Citer/build/CMakeFiles/Citer.dir
+/home/bayus/Documents/seleksi-sister/2.Citer/build/CMakeFiles/edit_cache.dir
+/home/bayus/Documents/seleksi-sister/2.Citer/build/CMakeFiles/rebuild_cache.dir
+/home/bayus/Documents/seleksi-sister/2.Citer/build/CMakeFiles/Citer_autogen_timestamp_deps.dir
+/home/bayus/Documents/seleksi-sister/2.Citer/build/CMakeFiles/Citer_autogen.dir

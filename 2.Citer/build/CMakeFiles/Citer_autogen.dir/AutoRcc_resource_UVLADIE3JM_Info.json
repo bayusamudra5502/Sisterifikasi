@@ -1,0 +1,19 @@
+{
+	"BUILD_DIR" : "/home/bayus/Documents/seleksi-sister/2.Citer/build/Citer_autogen",
+	"CMAKE_BINARY_DIR" : "/home/bayus/Documents/seleksi-sister/2.Citer/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/bayus/Documents/seleksi-sister/2.Citer/build",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/bayus/Documents/seleksi-sister/2.Citer",
+	"CMAKE_SOURCE_DIR" : "/home/bayus/Documents/seleksi-sister/2.Citer",
+	"INCLUDE_DIR" : "/home/bayus/Documents/seleksi-sister/2.Citer/build/Citer_autogen/include",
+	"INPUTS" : [ "/home/bayus/Documents/seleksi-sister/2.Citer/src/logo.png" ],
+	"LOCK_FILE" : "/home/bayus/Documents/seleksi-sister/2.Citer/build/CMakeFiles/Citer_autogen.dir/AutoRcc_resource_UVLADIE3JM_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "resource" ],
+	"OUTPUT_CHECKSUM" : "UVLADIE3JM",
+	"OUTPUT_NAME" : "qrc_resource.cpp",
+	"RCC_EXECUTABLE" : "/usr/bin/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/home/bayus/Documents/seleksi-sister/2.Citer/build/CMakeFiles/Citer_autogen.dir/AutoRcc_resource_UVLADIE3JM_Used.txt",
+	"SOURCE" : "/home/bayus/Documents/seleksi-sister/2.Citer/src/resource.qrc",
+	"VERBOSITY" : 0
+}
