@@ -1,4 +1,0 @@
-/home/bayus/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/221.5787.29/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/bayus/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/221.5787.29/bin/ninja/linux/ninja -DCMAKE_RUNTIME_OUTPUT_DIRECTORY=../bin -G Ninja -S /home/bayus/Documents/seleksi-sister/2.Citer -B /home/bayus/Documents/seleksi-sister/2.Citer/build
--- Configuring done
--- Generating done
--- Build files have been written to: /home/bayus/Documents/seleksi-sister/2.Citer/build
