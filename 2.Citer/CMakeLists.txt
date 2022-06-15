@@ -12,7 +12,7 @@ find_package(Qt5 COMPONENTS
         Widgets
         REQUIRED)
 
-add_executable(Citer src/main.cpp src/window.cpp src/window.ui src/resource.qrc src/window.hpp)
+add_executable(Citer src/main.cpp src/window.cpp src/window.ui src/resource.qrc src/window.hpp src/Process.cpp src/Process.h src/Exception.cpp src/Exception.h)
 
 target_link_libraries(Citer
         Qt5::Core

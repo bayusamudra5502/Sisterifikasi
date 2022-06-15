@@ -10,10 +10,17 @@ class MainWindow : public QMainWindow
 {
 Q_OBJECT
 
+private slots:
+    void onExit();
+    void onSubmit();
+
 public:
     MainWindow(QWidget *parent = nullptr);
     ~MainWindow();
 
 private:
     Ui::MainWindow *ui;
+    void connect();
+    bool is_valid();
+
 };
